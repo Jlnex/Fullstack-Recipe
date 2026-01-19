@@ -18,13 +18,13 @@ This project is a Fullstack web application where users can view, add, and manag
 This project was developed using the following technologies:
 
 **Frontend:**
-* React.js (or Vue/Angular depending on your specific implementation)
-* CSS / SCSS / Tailwind
+* React.js 
+* CSS / Tailwind
 
 **Backend:**
 * Node.js
 * Express.js
-* File System (fs) module or JSON-Server (for reading/writing data)
+
 
 **Database:**
 * `db.json` (Local JSON Database)
