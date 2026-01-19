@@ -34,6 +34,6 @@ This project was developed using the following technologies:
 ```bash
 Fullstack-Recipe/
 ├── client/          # Frontend files
-├── server/          # Backend and API routes
+├── api/          # Backend and API routes
 ├── db.json          # Data storage file
 └── package.json     # Project dependencies
